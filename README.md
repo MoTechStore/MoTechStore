@@ -18,7 +18,7 @@
 ---
 ### About Me
 
-- I'm a machine learning engineer, cybersecurity expert and web develope
+- I'm a machine learning engineer, cybersecurity expert and web developer
 
 
 
