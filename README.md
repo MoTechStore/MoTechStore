@@ -1,10 +1,8 @@
 ### Hi there 👋, welcome to my profile
 
 I'm Noel Moses Mwadende
-<!--
-**MoTechStore/MoTechStore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-connect with meo on YouTube https://www.youtube.com/c/MotechApp/
+connect with meo on YouTube ###https://www.youtube.com/c/MotechApp/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
