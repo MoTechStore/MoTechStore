@@ -2,14 +2,6 @@
 
 ---
 <h1 align="center">I'm Noel Moses Mwadende</h1>
-
-
-
-
-### Check out my blog:point_right: [Click Here](https://motechapp.com/)
-
-
-
 ![Banner](https://github.com/MoTechStore/MoTechStore/blob/main/channel_banner-3.gif)
 
 <h3 align="left">Tech Stack:</h3>
