@@ -1,9 +1,7 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
 
 ---
-<h1 align="center">I'm Noel Moses Mwadende</h1>
-
-![Banner](https://github.com/MoTechStore/MoTechStore/blob/main/channel_banner-3.gif)
+<h1 align="center">I'm IT Geek</h1>
 
 
 <h3 align="left">Tech Stack:</h3>
